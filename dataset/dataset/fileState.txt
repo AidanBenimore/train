@@ -1,0 +1,40 @@
+D:\TPOCR\PaddleOCR\dataset\A1036HZ.PNG	1
+D:\TPOCR\PaddleOCR\dataset\A4721UT.png	1
+D:\TPOCR\PaddleOCR\dataset\A5758YK.png	1
+D:\TPOCR\PaddleOCR\dataset\crop_1804A.jpg	1
+D:\TPOCR\PaddleOCR\dataset\crop_1828QY.jpg	1
+D:\TPOCR\PaddleOCR\dataset\crop_1976.jpg	1
+D:\TPOCR\PaddleOCR\dataset\crop_AD 1934GT.jpg	1
+D:\TPOCR\PaddleOCR\dataset\crop_B2482STZ.jpg	1
+D:\TPOCR\PaddleOCR\dataset\crop_G1293 EB.jpg	1
+D:\TPOCR\PaddleOCR\dataset\crop_H1358NP.jpg	1
+D:\TPOCR\PaddleOCR\dataset\crop_H1499VW.jpg	1
+D:\TPOCR\PaddleOCR\dataset\crop_H1915LO.jpg	1
+D:\TPOCR\PaddleOCR\dataset\K1842JP.png	1
+D:\TPOCR\PaddleOCR\dataset\crop_H8529AO.jpg	1
+D:\TPOCR\PaddleOCR\dataset\crop_H8979 EA.jpg	1
+D:\TPOCR\PaddleOCR\dataset\crop_H9313HB.jpg	1
+D:\TPOCR\PaddleOCR\dataset\crop_H196200.jpg	1
+D:\TPOCR\PaddleOCR\dataset\crop_H 1655WG.jpg	1
+D:\TPOCR\PaddleOCR\dataset\H1645.png	1
+D:\TPOCR\PaddleOCR\dataset\H1744.png	1
+D:\TPOCR\PaddleOCR\dataset\S1336LF.png	1
+D:\TPOCR\PaddleOCR\dataset\WhatsApp Image 2024-07-18 at 10.02.45 (1).jpeg	1
+D:\TPOCR\PaddleOCR\dataset\WhatsApp Image 2024-07-18 at 10.02.45 (2).jpeg	1
+D:\TPOCR\PaddleOCR\dataset\WhatsApp Image 2024-07-18 at 10.02.46 (1).jpeg	1
+D:\TPOCR\PaddleOCR\dataset\WhatsApp Image 2024-07-18 at 10.02.50 (1).jpeg	1
+D:\TPOCR\PaddleOCR\dataset\WhatsApp Image 2024-07-18 at 10.02.49.jpeg	1
+D:\TPOCR\PaddleOCR\dataset\WhatsApp Image 2024-07-18 at 10.02.49 (1).jpeg	1
+D:\TPOCR\PaddleOCR\dataset\WhatsApp Image 2024-07-18 at 10.02.48.jpeg	1
+D:\TPOCR\PaddleOCR\dataset\WhatsApp Image 2024-07-18 at 10.02.48 (2).jpeg	1
+D:\TPOCR\PaddleOCR\dataset\WhatsApp Image 2024-07-18 at 10.02.49 (3).jpeg	1
+D:\TPOCR\PaddleOCR\dataset\WhatsApp Image 2024-07-18 at 10.02.47 (1).jpeg	1
+D:\TPOCR\PaddleOCR\dataset\WhatsApp Image 2024-07-18 at 10.02.49 (2).jpeg	1
+D:\TPOCR\PaddleOCR\dataset\WhatsApp Image 2024-07-18 at 10.02.51 (1).jpeg	1
+D:\TPOCR\PaddleOCR\dataset\WhatsApp Image 2024-07-18 at 10.02.50.jpeg	1
+D:\TPOCR\PaddleOCR\dataset\WhatsApp Image 2024-07-18 at 10.02.51 (2).jpeg	1
+D:\TPOCR\PaddleOCR\dataset\WhatsApp Image 2024-07-18 at 10.02.51 (3).jpeg	1
+D:\TPOCR\PaddleOCR\dataset\WhatsApp Image 2024-07-18 at 10.02.51.jpeg	1
+D:\TPOCR\PaddleOCR\dataset\WhatsApp Image 2024-07-18 at 10.02.53 (1).jpeg	1
+D:\TPOCR\PaddleOCR\dataset\WhatsApp Image 2024-07-18 at 10.02.53 (2).jpeg	1
+D:\TPOCR\PaddleOCR\dataset\WhatsApp Image 2024-07-18 at 10.02.53.jpeg	1
